@@ -9,8 +9,20 @@ apt-get update && apt-get install libffi-dev libxml2-dev libxmlsec1-dev libxmlse
 
 ## Install Rasa dependecies (inside virtual environment)
 
-```
+```sh
 pip install --upgrade pip setuptools wheel
 pip install rasa[full]
 pip install rasa-x --extra-index-url https://pypi.rasa.com/simple
+```
+## Train the bot
+
+```sh
+rasa train
+```
+
+## Run the bot on Rasa X 
+(need to accept license for first time run on machine)
+
+```sh
+rasa x
 ```
