@@ -4,3 +4,4 @@ rasa.db
 events.db
 events.db-shm
 events.db-wal
+fasttext_embeds
