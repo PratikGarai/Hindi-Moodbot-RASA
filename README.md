@@ -28,7 +28,7 @@ rasa x
 ```
 
 ## Setup fasttext's Hindi vectors for RASA
-<a href="https://fasttext.cc/docs/en/crawl-vectors.html" target="_blank">Full list here</a>
+<a href="https://fasttext.cc/docs/en/crawl-vectors.html" target="_blank" rel="noopener noreferrer">Full list here</a>
 
 ```sh
 sh scripts/hindi_setup_full.sh
