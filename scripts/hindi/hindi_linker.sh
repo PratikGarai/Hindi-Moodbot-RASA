@@ -1,0 +1,1 @@
+python3 -m spacy link hi-pipeline hj

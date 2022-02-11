@@ -5,3 +5,5 @@ events.db
 events.db-shm
 events.db-wal
 fasttext_embeds
+fasttext_spacy_convert
+spacy_packed
